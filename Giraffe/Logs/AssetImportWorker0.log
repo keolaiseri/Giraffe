@@ -221,3 +221,4 @@ Received Import Request.
 Start importing Assets/Gizmos/PlayMakerNotes Icon.png using Guid(3c6ce8269c92d4a4f99f911813c0b613) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e96cb9419524f435c0922337048d298c') in 0.011484 seconds 
   Import took 0.017174 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
