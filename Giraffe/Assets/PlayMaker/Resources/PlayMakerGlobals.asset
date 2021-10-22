@@ -41,3 +41,4 @@ MonoBehaviour:
   - go left
   - go right
   - AddPoints
+  - loop
